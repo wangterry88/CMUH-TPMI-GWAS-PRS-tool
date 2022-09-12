@@ -30,7 +30,7 @@ Final: Packaging ALL the results to your Project Folder.
 
 ######################## Done. ########################
 
-ScreenShots:
+#ScreenShots:
 
 Step1: Perform TPMI Chip Mapping
 
