@@ -30,7 +30,20 @@ Final: Packaging ALL the results to your Project Folder.
 
 ######################## Done. ########################
 
-# ScreenShots:
+# ScreenShots (Web):
+
+![image](https://user-images.githubusercontent.com/49865575/190654841-f342155a-c3d3-4679-96f6-3d664fd7827b.png)
+
+![image](https://user-images.githubusercontent.com/49865575/190654937-22bbc439-0b20-4df3-8de4-995b72576b67.png)
+
+![image](https://user-images.githubusercontent.com/49865575/190655054-10d5b6e8-0377-4d36-91e5-82b0b4778aae.png)
+
+![image](https://user-images.githubusercontent.com/49865575/190655289-9a060c15-4038-43d1-835e-7b187267a4a7.png)
+
+![image](https://user-images.githubusercontent.com/49865575/190655352-d7d28af4-9224-49db-a27a-c1aa21bf7f38.png)
+
+
+# ScreenShots (Computing Server):
 
 Step1: Perform TPMI Chip Mapping
 
