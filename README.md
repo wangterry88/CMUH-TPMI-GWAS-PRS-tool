@@ -38,9 +38,7 @@ Final: Packaging ALL the results to your Project Folder.
 
 ![image](https://user-images.githubusercontent.com/49865575/190655054-10d5b6e8-0377-4d36-91e5-82b0b4778aae.png)
 
-![image](https://user-images.githubusercontent.com/49865575/190655289-9a060c15-4038-43d1-835e-7b187267a4a7.png)
-
-![image](https://user-images.githubusercontent.com/49865575/190655352-d7d28af4-9224-49db-a27a-c1aa21bf7f38.png)
+![image](https://user-images.githubusercontent.com/49865575/190657271-293c6c3f-762c-4c91-ae26-b3d45b1236c3.png)
 
 
 # ScreenShots (Computing Server):
