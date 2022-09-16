@@ -1,3 +1,21 @@
+# Web Demo (Tutorial purpose only):
+
+http://150.230.63.31:8080/
+
+# ScreenShots (Web):
+
+![image](https://user-images.githubusercontent.com/49865575/190654841-f342155a-c3d3-4679-96f6-3d664fd7827b.png)
+
+![image](https://user-images.githubusercontent.com/49865575/190654937-22bbc439-0b20-4df3-8de4-995b72576b67.png)
+
+![image](https://user-images.githubusercontent.com/49865575/190655054-10d5b6e8-0377-4d36-91e5-82b0b4778aae.png)
+
+![image](https://user-images.githubusercontent.com/49865575/190657271-293c6c3f-762c-4c91-ae26-b3d45b1236c3.png)
+
+
+
+###################################################
+
 This script is to run TPMI GWAS and PRS analysis.
 
 ########## To Perform this Package ################
@@ -29,16 +47,6 @@ Step10: Final New Sample validation.
 Final: Packaging ALL the results to your Project Folder.
 
 ######################## Done. ########################
-
-# ScreenShots (Web):
-
-![image](https://user-images.githubusercontent.com/49865575/190654841-f342155a-c3d3-4679-96f6-3d664fd7827b.png)
-
-![image](https://user-images.githubusercontent.com/49865575/190654937-22bbc439-0b20-4df3-8de4-995b72576b67.png)
-
-![image](https://user-images.githubusercontent.com/49865575/190655054-10d5b6e8-0377-4d36-91e5-82b0b4778aae.png)
-
-![image](https://user-images.githubusercontent.com/49865575/190657271-293c6c3f-762c-4c91-ae26-b3d45b1236c3.png)
 
 
 # ScreenShots (Computing Server):
