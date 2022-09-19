@@ -1,5 +1,5 @@
-# Web Demo 
-# (For Demo purpose only):
+# GenePlatform Web Demo 
+## (For Demo purpose only):
 
 http://150.230.63.31:8080/
 
@@ -14,8 +14,8 @@ http://150.230.63.31:8080/
 ![image](https://user-images.githubusercontent.com/49865575/190657271-293c6c3f-762c-4c91-ae26-b3d45b1236c3.png)
 
 
-# Computing Backend Demo 
-# (For Demo purpose only):
+# GenePlatform Computing Backend Demo 
+## (For Demo purpose only):
 
 ###################################################
 
