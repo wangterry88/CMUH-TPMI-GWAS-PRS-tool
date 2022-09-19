@@ -1,4 +1,5 @@
-# Web Demo (For Demo purpose only):
+# Web Demo 
+# (For Demo purpose only):
 
 http://150.230.63.31:8080/
 
@@ -13,7 +14,8 @@ http://150.230.63.31:8080/
 ![image](https://user-images.githubusercontent.com/49865575/190657271-293c6c3f-762c-4c91-ae26-b3d45b1236c3.png)
 
 
-# Computing Demo (For Demo purpose only):
+# Computing Backend Demo 
+# (For Demo purpose only):
 
 ###################################################
 
@@ -50,7 +52,7 @@ Final: Packaging ALL the results to your Project Folder.
 ######################## Done. ########################
 
 
-# ScreenShots (Computing Server):
+# ScreenShots (Computing Backend):
 
 Step1: Perform TPMI Chip Mapping
 
