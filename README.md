@@ -12,9 +12,11 @@ http://150.230.63.31:8884
 
 ![image](https://user-images.githubusercontent.com/49865575/191207984-fcb14b01-5bf3-45e3-8d49-b9c21fb0e9e3.png)
 
-![image](https://user-images.githubusercontent.com/49865575/190655054-10d5b6e8-0377-4d36-91e5-82b0b4778aae.png)
+![image](https://user-images.githubusercontent.com/49865575/191208561-5fa733e1-0acb-49e7-8391-81e21738e324.png)
 
-![image](https://user-images.githubusercontent.com/49865575/190657271-293c6c3f-762c-4c91-ae26-b3d45b1236c3.png)
+![2](https://user-images.githubusercontent.com/49865575/191209759-e066b9e4-88e3-4fba-ba61-d3ed71c43cd7.png)
+
+![image](https://user-images.githubusercontent.com/49865575/191209886-401772bb-fcd2-4dec-a12e-5af8036e0102.png)
 
 
 # GenePlatform Computing Server-side Demo 
