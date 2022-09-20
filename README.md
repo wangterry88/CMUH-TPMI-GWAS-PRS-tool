@@ -1,4 +1,7 @@
 # GenePlatform Web Demo 
+
+This is a web deveploed with Django Web application framework.
+
 ## (For Demo purpose only):
 
 http://150.230.63.31:8884
