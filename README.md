@@ -4,7 +4,7 @@ This is a web deveploed with Django Web application framework.
 
 ## For Demo purpose only:
 
-http://geneservice.ddns.net:8884
+http://geneservice.ddns.net:2001
 
 # ScreenShots (Web):
 
